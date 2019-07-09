@@ -1,2 +1,6 @@
 # hellow-world
-Just another repository
+
+Hi Humans!
+
+Starting to study git.
+Interested in programming.
